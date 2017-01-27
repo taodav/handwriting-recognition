@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+MNIST*
+model*
+tensorflow-mnist-predict
